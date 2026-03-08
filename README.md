@@ -16,7 +16,8 @@ Choose the egg style,start the timer and get the exact doneness you want
 - Remove the egg and enjoy
 
 Clone the repository Features :
+```bash
 git clone https://github.com/yourusername/egg-timer.git
-
+```
 
 Perfect for quick kitchen timing
